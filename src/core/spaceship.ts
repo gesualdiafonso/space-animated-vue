@@ -1,5 +1,5 @@
 import type { GLTF } from 'three/examples/jsm/Addons.ts';
-import { GLTFLoader } from 'three/examples/jsm/Addons';
+import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
 import { Object3D, Scene } from 'three';
 import { InputController } from './input.controller';
 
